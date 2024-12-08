@@ -2,9 +2,7 @@
 
 This repository contains the implementation for the [paper](https://arxiv.org/pdf/2410.13735) **"Optimizing Conformal Prediction with Vectorized Non-Conformity Scores"**. 
 
-![method-illustration](/Users/mzheng/Downloads/method-illustration.png)
-
-------
+![method-illustration](method-illustration.png)
 
 ## 📖 Overview
 
@@ -17,7 +15,7 @@ Generative models have shown significant promise in critical domains such as med
 - **Efficient Computation:** We propose an efficient heuristic algorithm to approximate the optimal quantile vector, making the method computationally practical for large datasets.
 - **Theoretical and Empirical Validation:** We demonstrate through theoretical analysis and empirical evaluations that PCP-VCR maintains valid coverage while significantly improving prediction set efficiency compared to baseline methods.
 
-![Screenshot 2024-12-08 at 21.14.17](/Users/mzheng/Library/Application Support/typora-user-images/Screenshot 2024-12-08 at 21.14.17.png)
+![real_data_comparison](real_data_comparison.png)
 
 ## 🔍 References
 
